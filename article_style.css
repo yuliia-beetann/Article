@@ -1,0 +1,30 @@
+body{
+    background: #ffffff url("background.jpg") repeat-y;
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    color: #333333;
+}
+nav {
+    background-color: whitesmoke;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 5px solid #cccccc;
+}
+nav a {
+    font-size: larger;
+    color: black;
+}
+section {
+    background-color: whitesmoke;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    border: 5px solid #cccccc;
+}
+p {
+    text-indent: 20px; 
+    text-align: justify;
+   }
